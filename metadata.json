@@ -1,0 +1,59 @@
+{
+  "siteId": "storage-label-making",
+  "generatedAt": "2026-06-04T11:35:15.134244",
+  "categories": [
+    "beginner-storage-label-making",
+    "advanced-storage-label-making",
+    "tips-storage-label-making",
+    "history-storage-label-making",
+    "trending-storage-label-making",
+    "tutorials-storage-label-making"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-storage-label-making",
+      "category_name": "Beginner Storage Label Making"
+    },
+    {
+      "category_slug": "advanced-storage-label-making",
+      "category_name": "Advanced Storage Label Making"
+    },
+    {
+      "category_slug": "tips-storage-label-making",
+      "category_name": "Storage Label Making Tips"
+    },
+    {
+      "category_slug": "history-storage-label-making",
+      "category_name": "Storage Label Making History"
+    },
+    {
+      "category_slug": "trending-storage-label-making",
+      "category_name": "Trending Storage Label Making"
+    },
+    {
+      "category_slug": "tutorials-storage-label-making",
+      "category_name": "Storage Label Making Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "storage-label-making",
+    "color_scheme": {
+      "name": "Purple Dream",
+      "primary": "#6b21a8",
+      "secondary": "#a855f7",
+      "accent": "#d8b4fe",
+      "background": "#faf5ff",
+      "text": "#581c87",
+      "light": "#f3e8ff"
+    },
+    "font": {
+      "family": "'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif",
+      "heading": "'Segoe UI'",
+      "body": "Roboto"
+    },
+    "layout": "topbar",
+    "site_title": "Storage Label Making Central",
+    "articles_per_row": 3
+  }
+}
